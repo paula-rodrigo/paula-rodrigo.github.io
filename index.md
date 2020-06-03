@@ -1,3 +1,5 @@
+# Digital History Static Site
+
 ## My Quick Static Site
 
 This is a site I build with gh-pages. **Wow**
