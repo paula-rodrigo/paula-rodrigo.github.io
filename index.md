@@ -1,13 +1,32 @@
-# Digital History Static Site
+## Welcome
 
-## My Quick Static Site
-
-This is a site I build with gh-pages. **Wow**
+This is my new static site where all of my dighist journals and notes have been compiled :)
 
 It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
+![gif ftw](https://media.giphy.com/media/KvueMnd3bCtMc/giphy.gif)
 
-## Journals
+## Week One
 
-[Week one](https://github.com/paula-rodrigo/week-one/blob/master/journal.md)
+[Journal](https://github.com/paula-rodrigo/week-one/blob/master/journal.md)
+[Notes](https://github.com/paula-rodrigo/week-one/blob/master/notes.md)
+
+## Week Two
+
+[Journal](https://github.com/paula-rodrigo/week-two/blob/master/journal.md)
+[Notes](https://github.com/paula-rodrigo/week-two/blob/master/notes.md)
+
+## Week Three
+
+[Journal](https://github.com/paula-rodrigo/week-three/blob/master/journal.md)
+[Notes](https://github.com/paula-rodrigo/week-three/blob/master/notes.md)
+
+## Week Four
+
+[Journal](https://github.com/paula-rodrigo/week-four/blob/master/journal.md)
+[Notes](https://github.com/paula-rodrigo/week-four/blob/master/notes.md)
+
+## Week Five
+
+[Journal](https://github.com/paula-rodrigo/week-five/blob/master/journal.md)
+[Notes](https://github.com/paula-rodrigo/week-five/blob/master/notes.md)
