@@ -1,4 +1,4 @@
-# Paula's HIST 3814 site
+# Paula's HIST3814 site
 ## Welcome
 
 This is my new static site where all of my dighist journals and notes have been compiled :)
